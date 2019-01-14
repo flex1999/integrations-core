@@ -12,6 +12,7 @@ flup==1.0.3.dev-20110405; python_version < '3.0'
 gearman==2.0.2; sys_platform != 'win32' and python_version < '3.0'
 google-compute-engine==2.8.3
 httplib2==0.10.3
+ibm_db==2.0.9
 ipaddress==1.0.22
 jaydebeapi==1.1.1
 jpype1==0.6.3
